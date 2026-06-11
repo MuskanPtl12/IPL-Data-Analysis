@@ -1,4 +1,5 @@
-dataset/*.csv
-*.ipynb_checkpoints
+Datasets/*.csv
 .ipynb_checkpoints/
 desktop.ini
+__pycache__/
+*.pyc
