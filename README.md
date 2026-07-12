@@ -60,7 +60,7 @@ This project is divided into multiple stages:
 ## 📂 Project Structure
 
 IPL-Data-Analysis-Project/
-
+```text
 ├── Notebooks/
 │   ├── 01_Data_Understanding.ipynb
 │   ├── 02_Data_Cleaning.ipynb
@@ -74,7 +74,7 @@ IPL-Data-Analysis-Project/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-
+```
 ---
 
 ## 🛠 Tools & Technologies Used
